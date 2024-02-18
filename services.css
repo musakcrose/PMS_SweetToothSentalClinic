@@ -1,0 +1,657 @@
+.unsplashz-npx5sw19i-icon {
+  width: 987px;
+  height: 658px;
+  position: absolute;
+  margin: 0 !important;
+  right: 105px;
+  bottom: -378px;
+  object-fit: cover;
+}
+.services-child {
+  width: 19px;
+  height: 281px;
+  position: relative;
+  background-color: var(--color-lightgray);
+  display: none;
+  z-index: 1;
+}
+.frame-child57 {
+  height: 145px;
+  width: 1947px;
+  position: relative;
+  background-color: var(--color-white);
+  box-shadow: 0 1px 10px 2px #000;
+  display: none;
+  max-width: 100%;
+}
+.image-3-icon22 {
+  height: 122.6px;
+  width: 119px;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.dental-clinic17,
+.sweet-tooth18 {
+  position: relative;
+  white-space: nowrap;
+  z-index: 1;
+}
+.dental-clinic17 {
+  font-size: var(--font-size-base-4);
+  display: inline-block;
+  font-family: var(--font-poppins);
+  margin-top: -11px;
+}
+.dental-clinic-text-wrapper,
+.dental-clinic-text2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.dental-clinic-text-wrapper {
+  flex-direction: row;
+  padding: 0 var(--padding-6xs) 0 var(--padding-9xs);
+}
+.your-smile-is18 {
+  position: relative;
+  font-weight: 300;
+  white-space: nowrap;
+  z-index: 1;
+}
+.home-navigation-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-11xs);
+}
+.home-title {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 0.5px solid var(--color-darkgray);
+  box-sizing: border-box;
+  z-index: 1;
+  margin-top: -1px;
+}
+.line-separator7 {
+  align-self: stretch;
+  height: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  margin-top: -4px;
+  font-size: var(--font-size-3xs);
+  font-family: var(--font-poppins);
+}
+.image-3-parent4,
+.sub-header-frame {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.sub-header-frame {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-xl) 0;
+}
+.image-3-parent4 {
+  width: 260px;
+  flex-direction: row;
+  gap: var(--gap-5xs);
+}
+.about-us19,
+.home17 {
+  position: relative;
+  z-index: 1;
+}
+.about-us19 {
+  white-space: nowrap;
+}
+.teenyiconsdownsolid-frame1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-7xs) 0 0;
+}
+.services21,
+.teenyiconsdown-solid17 {
+  position: relative;
+  z-index: 1;
+}
+.teenyiconsdown-solid17 {
+  height: 25.8px;
+  width: 25.8px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.general-dentistry-prosthodonti {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 var(--padding-10xs) 0 0;
+  gap: var(--gap-12xs);
+  color: var(--color-darkslateblue-200);
+}
+.contact-us25 {
+  position: relative;
+  white-space: nowrap;
+  z-index: 1;
+}
+.teenyiconsdownsolid-frame2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-10xs) 0 0;
+}
+.appointment21 {
+  position: relative;
+  z-index: 1;
+}
+.teenyiconsdownsolid-frame3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-10xs) 0 0;
+}
+.feedback17 {
+  position: relative;
+  z-index: 1;
+}
+.services-text4 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-23xl);
+}
+.banner-slider-instance,
+.rectangle-parent35 {
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.banner-slider-instance {
+  width: 1169px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xs) 0 0;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-poppins);
+}
+.rectangle-parent35 {
+  flex: 1;
+  background-color: var(--color-white);
+  box-shadow: 0 1px 10px 2px #000;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--padding-smi) var(--padding-27xl) var(--padding-3xs)
+    var(--padding-base);
+  gap: var(--gap-xl);
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  text-align: left;
+  font-size: var(--font-size-6xl-1);
+  color: var(--color-steelblue-300);
+  font-family: var(--font-vujahday-script);
+}
+.image-1-icon10 {
+  position: absolute;
+  height: 84.31%;
+  width: 25%;
+  top: 2.34%;
+  right: 75%;
+  bottom: 13.35%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.image-2-icon5,
+.image-3-icon23,
+.image-4-icon5 {
+  align-self: stretch;
+  width: 1919.8px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  min-height: 1080px;
+  max-width: Infinity%;
+  flex-shrink: 0;
+}
+.image-3-icon23,
+.image-4-icon5 {
+  margin-left: -1px;
+}
+.thumbnail-frame {
+  position: absolute;
+  top: 30px;
+  left: 1920px;
+  width: 0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.image-1-icon11 {
+  position: absolute;
+  height: 100%;
+  width: 25%;
+  top: 0;
+  right: -25%;
+  bottom: 0;
+  left: 100%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.slider5 {
+  height: 1281px;
+  width: 7679.3px;
+  position: relative;
+  max-width: 400%;
+  flex-shrink: 0;
+}
+.images-slider5,
+.services22 {
+  position: absolute;
+  left: 0;
+  width: 1920px;
+}
+.images-slider5 {
+  top: -175px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.services22 {
+  margin: 0;
+  top: 138px;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  height: 93px;
+  z-index: 1;
+}
+.service-section {
+  position: absolute;
+  top: 0;
+  left: 1901px;
+  background-color: var(--color-lightgray);
+  width: 19px;
+  height: 281px;
+  z-index: 3;
+}
+.banner-slider7 {
+  height: 335px;
+  width: 1920px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -42px;
+  left: -1061px;
+  overflow: hidden;
+  flex-shrink: 0;
+  background-image: url(./public/banner-slider@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 2;
+}
+.general-dentistry3 {
+  position: relative;
+  font-weight: 300;
+}
+.frame-set {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-9xl) 0 0;
+}
+.prosthodontics3 {
+  width: 301px;
+  position: relative;
+  font-weight: 300;
+  display: inline-block;
+  box-sizing: border-box;
+  padding-right: var(--padding-xl);
+}
+.frame-set1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.orthodontics3 {
+  width: 265px;
+  position: relative;
+  font-weight: 300;
+  display: inline-block;
+  box-sizing: border-box;
+  padding-right: var(--padding-xl);
+}
+.frame-set2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.cosmetic-dentistry3,
+.oral-surgery3 {
+  position: relative;
+  font-weight: 300;
+  display: inline-block;
+}
+.cosmetic-dentistry3 {
+  height: 48px;
+}
+.oral-surgery3 {
+  width: 244px;
+  box-sizing: border-box;
+  padding-right: var(--padding-xl);
+}
+.frame-set3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.home-about-us-appointment {
+  flex: 1;
+  background-color: var(--color-aliceblue-200);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-10xl) var(--padding-mid) var(--padding-8xl)
+    var(--padding-xl);
+  gap: var(--gap-3xs);
+  max-width: 100%;
+  z-index: 3;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+}
+.header-frame1,
+.main-frame4,
+.services-label1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.header-frame1 {
+  width: 367px;
+  margin: 0 !important;
+  position: absolute;
+  top: 102px;
+  left: 1061px;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.main-frame4,
+.services-label1 {
+  box-sizing: border-box;
+}
+.services-label1 {
+  width: 1947px;
+  justify-content: center;
+  padding: 0 0 335px;
+  position: relative;
+  max-width: 101%;
+  flex-shrink: 0;
+}
+.main-frame4 {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
+.sweet-tooth-dental7 {
+  position: relative;
+}
+.orthodontics-proxy {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-5xs) var(--padding-77xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.general-dentistry4 {
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  bottom: 447px;
+  left: 0;
+  font-size: var(--font-size-45xl);
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  color: var(--color-darkslateblue-200);
+  text-align: center;
+  display: inline-block;
+}
+.frame-child58,
+.loremipsum-text {
+  position: relative;
+  background-color: var(--color-darkslateblue-200);
+  max-width: 100%;
+}
+.loremipsum-text {
+  width: 652px;
+  height: 6px;
+  z-index: 1;
+}
+.frame-child58 {
+  height: 510px;
+  width: 836px;
+  border-radius: var(--br-61xl);
+  display: none;
+}
+.oral-prophylaxis-linis {
+  height: 93px;
+  flex: 1;
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 2;
+}
+.rectangle-parent36 {
+  align-self: stretch;
+  border-radius: var(--br-61xl);
+  background-color: var(--color-darkslateblue-200);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-67xl) 0 var(--padding-11xl) var(--padding-4xs);
+  box-sizing: border-box;
+  min-height: 510px;
+  max-width: 100%;
+  z-index: 1;
+}
+.lorem-ipsum-dolor5 {
+  height: 576px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 2;
+}
+.prophylaxis {
+  width: 679px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-4xs);
+  box-sizing: border-box;
+  max-width: 100%;
+  margin-top: -294px;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+}
+.frame-parent26 {
+  width: 836px;
+  flex-direction: column;
+  align-items: center;
+  padding: 0;
+  box-sizing: border-box;
+}
+.frame-parent26,
+.oral-prophylaxis,
+.oral-prophylaxis-inner {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.oral-prophylaxis-inner {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.oral-prophylaxis {
+  width: 1146px;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 0;
+  box-sizing: border-box;
+  gap: var(--gap-214xl);
+}
+.info-frame,
+.services20 {
+  display: flex;
+  align-items: flex-start;
+  font-family: var(--font-poppins);
+}
+.info-frame {
+  width: 1422px;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+  color: var(--color-white);
+}
+.services20 {
+  width: 100%;
+  height: 1080px;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 16px;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-cornflowerblue);
+}
+@media screen and (max-width: 1425px) {
+  .home-navigation-frame,
+  .your-smile-is18 {
+    display: none;
+  }
+}
+@media screen and (max-width: 1275px) {
+  .rectangle-parent35 {
+    padding-right: var(--padding-4xl);
+    box-sizing: border-box;
+  }
+  .oral-prophylaxis {
+    gap: var(--gap-214xl);
+  }
+}
+@media screen and (max-width: 900px) {
+  .services-text4 {
+    gap: var(--gap-23xl);
+  }
+  .services22 {
+    font-size: var(--font-size-32xl);
+  }
+  .cosmetic-dentistry3,
+  .general-dentistry3,
+  .oral-surgery3,
+  .orthodontics3,
+  .prosthodontics3 {
+    font-size: var(--font-size-7xl);
+  }
+  .services-label1 {
+    padding-bottom: 218px;
+    box-sizing: border-box;
+  }
+  .general-dentistry4 {
+    font-size: var(--font-size-32xl);
+  }
+  .oral-prophylaxis-linis {
+    font-size: var(--font-size-10xl);
+  }
+  .lorem-ipsum-dolor5 {
+    font-size: var(--font-size-7xl);
+  }
+  .oral-prophylaxis {
+    gap: var(--gap-214xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .services-text4 {
+    display: none;
+  }
+  .banner-slider-instance {
+    width: 0;
+  }
+  .services22 {
+    font-size: var(--font-size-19xl);
+  }
+  .cosmetic-dentistry3,
+  .general-dentistry3,
+  .oral-surgery3,
+  .orthodontics3,
+  .prosthodontics3 {
+    font-size: var(--font-size-lgi);
+  }
+  .general-dentistry4 {
+    font-size: var(--font-size-19xl);
+  }
+  .oral-prophylaxis-linis {
+    font-size: var(--font-size-3xl);
+  }
+  .lorem-ipsum-dolor5 {
+    font-size: var(--font-size-lgi);
+  }
+  .oral-prophylaxis {
+    gap: var(--gap-214xl);
+  }
+}

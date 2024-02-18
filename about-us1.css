@@ -1,0 +1,386 @@
+.content-frame-child {
+  height: 145px;
+  width: 1947px;
+  position: relative;
+  background-color: var(--color-white);
+  box-shadow: 0 1px 10px 2px #000;
+  display: none;
+  max-width: 100%;
+}
+.image-3-icon29 {
+  height: 122.6px;
+  width: 119px;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.dental-clinic23,
+.sweet-tooth24 {
+  position: relative;
+  white-space: nowrap;
+  z-index: 1;
+}
+.dental-clinic23 {
+  font-size: var(--font-size-base-4);
+  display: inline-block;
+  font-family: var(--font-poppins);
+  margin-top: -11px;
+}
+.dental-clinic-text5,
+.sweet-tooth-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.sweet-tooth-frame {
+  flex-direction: row;
+  padding: 0 var(--padding-9xs) 0 var(--padding-10xs);
+}
+.your-smile-is24 {
+  position: relative;
+  font-weight: 300;
+  white-space: nowrap;
+  z-index: 1;
+}
+.contact-info-frame3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-12xs);
+}
+.button1 {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 0.5px solid var(--color-darkgray);
+  box-sizing: border-box;
+  z-index: 1;
+  margin-top: -1px;
+}
+.main-frame6 {
+  align-self: stretch;
+  height: 15px;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-top: -4px;
+  font-size: var(--font-size-3xs);
+  font-family: var(--font-poppins);
+}
+.image-container2,
+.main-frame6,
+.subtitle-text {
+  display: flex;
+  justify-content: flex-start;
+}
+.subtitle-text {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: var(--padding-xl) 0;
+}
+.image-container2 {
+  width: 260px;
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-5xs);
+}
+.about-us26,
+.home23 {
+  position: relative;
+  z-index: 1;
+}
+.about-us26 {
+  white-space: nowrap;
+}
+.footer-line-child {
+  width: 150px;
+  height: 3px;
+  position: relative;
+  border-top: 3px solid var(--color-darkslateblue-200);
+  box-sizing: border-box;
+  z-index: 1;
+}
+.footer-line {
+  height: 53px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+  color: var(--color-darkslateblue-200);
+}
+.services33,
+.teenyiconsdown-solid22 {
+  position: relative;
+  z-index: 1;
+}
+.teenyiconsdown-solid22 {
+  height: 25.8px;
+  width: 25.8px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.home-contact-us-appointment-fe {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-12xs);
+}
+.contact-us31 {
+  white-space: nowrap;
+}
+.appointment27,
+.contact-us31,
+.feedback22 {
+  position: relative;
+  z-index: 1;
+}
+.services-frame7,
+.social-icons-frame {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.social-icons-frame {
+  flex-direction: row;
+  padding: 0 var(--padding-10xs) 0 0;
+  gap: var(--gap-24xl);
+}
+.services-frame7 {
+  flex-direction: column;
+  padding: var(--padding-smi) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-poppins);
+}
+.content-frame,
+.subheader-frame1 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.content-frame {
+  width: 1947px;
+  background-color: var(--color-white);
+  box-shadow: 0 1px 10px 2px #000;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--padding-smi) var(--padding-27xl) var(--padding-3xs)
+    var(--padding-base);
+  gap: var(--gap-xl);
+  max-width: 101%;
+  flex-shrink: 0;
+}
+.subheader-frame1 {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-6xl-1);
+  color: var(--color-steelblue-300);
+  font-family: var(--font-vujahday-script);
+}
+.background-frame-child {
+  height: 900px;
+  width: 1920px;
+  position: relative;
+  background-color: var(--color-lavender);
+  display: none;
+  max-width: 100%;
+}
+.by-your-support-you-can-help-u {
+  position: absolute;
+  top: 35px;
+  left: 22px;
+  background-color: var(--color-gainsboro);
+  width: 913px;
+  height: 615px;
+  z-index: 1;
+}
+.image-5-11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 913px;
+  height: 624px;
+  object-fit: cover;
+  z-index: 2;
+}
+.info-rectangle {
+  height: 650px;
+  width: 935px;
+  position: absolute;
+  margin: 0 !important;
+  top: -51px;
+  right: -818px;
+}
+.frame-child71,
+.who-we-are2 {
+  align-self: stretch;
+  position: relative;
+}
+.frame-child71 {
+  height: 558px;
+  border-radius: var(--br-61xl);
+  background-color: var(--color-darkslateblue-200);
+  display: none;
+}
+.who-we-are2 {
+  margin: 0;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  z-index: 1;
+}
+.lorem-ipsum-dolor10 {
+  height: 324px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.rectangle-parent40,
+.who-we-are-text {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.who-we-are-text {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-60xl) 0 78px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+}
+.rectangle-parent40 {
+  flex: 1;
+  border-radius: var(--br-61xl);
+  background-color: var(--color-darkslateblue-200);
+  flex-direction: column;
+  align-items: flex-end;
+  padding: var(--padding-29xl) 0 var(--padding-37xl);
+  gap: var(--gap-18xl);
+  z-index: 3;
+}
+.container-frame {
+  width: 836px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  max-width: calc(100% - 39px);
+}
+.button2 {
+  width: 19px;
+  height: 281px;
+  position: relative;
+  background-color: var(--color-lightgray);
+  z-index: 1;
+}
+.final-rectangle {
+  height: 324px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.about-us25,
+.background-frame1 {
+  display: flex;
+  box-sizing: border-box;
+}
+.background-frame1 {
+  align-self: stretch;
+  background-color: var(--color-lavender);
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 113px 0 229px var(--padding-119xl);
+  gap: var(--gap-xl);
+  max-width: 100%;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
+.about-us25 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-16xl);
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1425px) {
+  .contact-info-frame3,
+  .your-smile-is24 {
+    display: none;
+  }
+}
+@media screen and (max-width: 1275px) {
+  .content-frame {
+    padding-right: var(--padding-4xl);
+    box-sizing: border-box;
+  }
+  .background-frame1 {
+    padding-left: var(--padding-50xl);
+    padding-top: 73px;
+    padding-bottom: 149px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .social-icons-frame {
+    gap: var(--gap-24xl);
+  }
+  .who-we-are2 {
+    font-size: var(--font-size-32xl);
+  }
+  .who-we-are-text {
+    padding-left: var(--padding-20xl);
+    padding-right: var(--padding-20xl);
+    box-sizing: border-box;
+  }
+  .rectangle-parent40 {
+    padding-top: var(--padding-12xl);
+    padding-bottom: var(--padding-17xl);
+    box-sizing: border-box;
+  }
+  .background-frame1 {
+    padding-left: var(--padding-15xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .social-icons-frame {
+    display: none;
+  }
+  .who-we-are2 {
+    font-size: var(--font-size-19xl);
+  }
+  .lorem-ipsum-dolor10 {
+    font-size: var(--font-size-lgi);
+  }
+  .rectangle-parent40 {
+    gap: var(--gap-18xl);
+  }
+  .background-frame1 {
+    padding-top: 47px;
+    padding-bottom: var(--padding-78xl);
+    box-sizing: border-box;
+  }
+}

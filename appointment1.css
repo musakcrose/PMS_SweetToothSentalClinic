@@ -1,0 +1,1069 @@
+.appointment-child1 {
+  width: 19px;
+  height: 281px;
+  position: relative;
+  background-color: var(--color-lightgray);
+  display: none;
+  z-index: 0;
+}
+.frame-child25 {
+  height: 145px;
+  width: 1947px;
+  position: relative;
+  background-color: var(--color-white);
+  box-shadow: 0 1px 10px 2px #000;
+  display: none;
+  max-width: 100%;
+}
+.image-3-icon13 {
+  height: 122.6px;
+  width: 119px;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.dental-clinic10,
+.sweet-tooth10 {
+  position: relative;
+  white-space: nowrap;
+  z-index: 1;
+}
+.dental-clinic10 {
+  font-size: var(--font-size-base-4);
+  display: inline-block;
+  font-family: var(--font-poppins);
+  margin-top: -11px;
+}
+.first-name-input,
+.phone-number-input {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.first-name-input {
+  flex-direction: row;
+  padding: 0 var(--padding-6xs) 0 var(--padding-9xs);
+}
+.your-smile-is11 {
+  position: relative;
+  font-weight: 300;
+  white-space: nowrap;
+  z-index: 1;
+}
+.contact-us-frame8 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-11xs);
+}
+.about-us-frame7 {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 0.5px solid var(--color-darkgray);
+  box-sizing: border-box;
+  z-index: 1;
+  margin-top: -1px;
+}
+.home-frame7 {
+  align-self: stretch;
+  height: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  margin-top: -4px;
+  font-size: var(--font-size-3xs);
+  font-family: var(--font-poppins);
+}
+.appointment-request-form1,
+.image-3-parent1 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.appointment-request-form1 {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-xl) 0;
+}
+.image-3-parent1 {
+  width: 260px;
+  flex-direction: row;
+  gap: var(--gap-5xs);
+}
+.home10 {
+  position: relative;
+  z-index: 1;
+}
+.about-us12 {
+  white-space: nowrap;
+}
+.about-us12,
+.services12,
+.teenyiconsdown-solid9 {
+  position: relative;
+  z-index: 1;
+}
+.teenyiconsdown-solid9 {
+  height: 25.8px;
+  width: 25.8px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.first-name-label,
+.phone-number-label {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-12xs);
+}
+.first-name-label {
+  align-items: flex-start;
+  gap: var(--gap-29xl);
+  max-width: 100%;
+}
+.contact-us18 {
+  white-space: nowrap;
+}
+.appointment12,
+.contact-us18 {
+  position: relative;
+  z-index: 1;
+}
+.home-contact-us-feedback {
+  height: 3px;
+  flex: 1;
+  position: relative;
+  border-top: 3px solid var(--color-darkslateblue-200);
+  box-sizing: border-box;
+  z-index: 2;
+  margin-left: -215px;
+}
+.appointment-request-form2 {
+  width: 223px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 var(--padding-8xs) 0 0;
+  box-sizing: border-box;
+  color: var(--color-darkslateblue-200);
+}
+.feedback8 {
+  position: relative;
+  z-index: 1;
+}
+.appointment-request-form-frame,
+.banner-slider4 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.appointment-request-form-frame {
+  flex-direction: row;
+  gap: var(--gap-24xl);
+}
+.banner-slider4 {
+  flex-direction: column;
+  padding: var(--padding-5xs) 0 0;
+  box-sizing: border-box;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-poppins);
+}
+.appointment-inner1,
+.rectangle-parent15 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.rectangle-parent15 {
+  width: 1947px;
+  background-color: var(--color-white);
+  box-shadow: 0 1px 10px 2px #000;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--padding-smi) 43px var(--padding-3xs) var(--padding-base);
+  gap: var(--gap-xl);
+  max-width: 101%;
+  flex-shrink: 0;
+}
+.appointment-inner1 {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-6xl-1);
+  color: var(--color-steelblue-300);
+  font-family: var(--font-vujahday-script);
+}
+.image-1-icon6,
+.image-1-icon7,
+.image-2-icon3,
+.image-3-icon14,
+.image-4-icon3 {
+  position: absolute;
+  height: 84.31%;
+  width: 25%;
+  top: 2.34%;
+  right: 75%;
+  bottom: 13.35%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.image-1-icon7,
+.image-2-icon3,
+.image-3-icon14,
+.image-4-icon3 {
+  height: 54.96%;
+  top: 31.69%;
+  right: 50%;
+  left: 25%;
+}
+.image-1-icon7,
+.image-3-icon14,
+.image-4-icon3 {
+  height: 84.31%;
+  width: 25.02%;
+  top: 2.34%;
+  right: 24.99%;
+  left: 49.99%;
+}
+.image-1-icon7,
+.image-4-icon3 {
+  width: 25%;
+  right: 0;
+  left: 74.99%;
+}
+.image-1-icon7 {
+  height: 100%;
+  top: 0;
+  right: -25%;
+  bottom: 0;
+  left: 100%;
+}
+.slider3 {
+  height: 1281px;
+  width: 7679.3px;
+  position: relative;
+  max-width: 400%;
+  flex-shrink: 0;
+}
+.images-slider3 {
+  position: absolute;
+  top: -175px;
+  left: 0;
+  width: 1920px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.appointment-request-form3 {
+  margin: 0;
+  position: absolute;
+  top: 138px;
+  left: 0;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  width: 1920px;
+  height: 93px;
+  z-index: 1;
+}
+.banner-slider-item {
+  position: absolute;
+  top: 0;
+  left: 1901px;
+  background-color: var(--color-lightgray);
+  width: 19px;
+  height: 281px;
+  z-index: 3;
+}
+.banner-slider5 {
+  height: 335px;
+  flex: 1;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  max-width: 100%;
+  z-index: 2;
+}
+.services-section {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-base);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+}
+.sweet-tooth-dental4 {
+  width: 415px;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  box-sizing: border-box;
+  padding-right: var(--padding-xl);
+}
+.submit1 {
+  position: absolute;
+  top: 14px;
+  left: calc(50% - 37.5px);
+  font-weight: 500;
+  display: none;
+}
+.group-child,
+.submit-wrapper {
+  position: relative;
+  box-sizing: border-box;
+  display: none;
+}
+.submit-wrapper {
+  width: 925px;
+  height: 77px;
+  background-color: var(--color-darkslateblue-200);
+  border: 1px solid var(--color-darkolivegreen);
+  overflow: hidden;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 2;
+  color: var(--color-white);
+}
+.group-child {
+  align-self: stretch;
+  height: 517px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue-100);
+  box-shadow: 0 4px 40px rgba(0, 0, 0, 0.25);
+  border: 3px solid var(--color-darkslateblue-200);
+}
+.group-container1,
+.rectangle-input {
+  border: 0;
+  outline: 0;
+  background-color: var(--color-gainsboro);
+  height: 72.6px;
+}
+.rectangle-input {
+  align-self: stretch;
+  position: relative;
+  border-radius: var(--br-xl);
+  min-width: 250px;
+}
+.group-container1 {
+  width: 1727.3px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -34.9px;
+  left: calc(50% - 863.85px);
+  z-index: 1;
+}
+.appointment-request-form4 {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  flex-shrink: 0;
+  z-index: 3;
+}
+.a-p-p-o-i-n-t-m-e-n-t-r-e-q-u,
+.appointment-form,
+.rectangle-parent16 {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.appointment-form {
+  width: 893px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-12xs) 0 0;
+  position: relative;
+}
+.a-p-p-o-i-n-t-m-e-n-t-r-e-q-u,
+.rectangle-parent16 {
+  align-self: stretch;
+  flex-direction: column;
+}
+.a-p-p-o-i-n-t-m-e-n-t-r-e-q-u {
+  align-items: center;
+  padding: 0 0 var(--padding-17xl);
+  flex-shrink: 0;
+  margin-top: -48px;
+}
+.rectangle-parent16 {
+  align-items: flex-start;
+  padding: 0 var(--padding-12xs) var(--padding-12xs) 0;
+  z-index: 2;
+}
+.please-wait-for1 {
+  color: var(--color-gray-100);
+}
+.note-please-wait-container1 {
+  align-self: stretch;
+  position: relative;
+  display: inline-block;
+  padding-right: var(--padding-xs);
+  z-index: 4;
+}
+.first-name1,
+.last-name-input {
+  position: relative;
+  box-sizing: border-box;
+}
+.first-name1 {
+  width: 190px;
+  display: inline-block;
+  padding-right: var(--padding-xl);
+  z-index: 4;
+}
+.last-name-input {
+  border: 2px solid var(--color-darkslategray);
+  outline: 0;
+  background-color: var(--color-white);
+  align-self: stretch;
+  height: 79px;
+  min-width: 250px;
+  z-index: 5;
+}
+.phone-rectangle {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.phone-number1,
+.preferred-date-input {
+  position: relative;
+  box-sizing: border-box;
+}
+.phone-number1 {
+  width: 258px;
+  display: inline-block;
+  padding-right: var(--padding-xl);
+  z-index: 4;
+}
+.preferred-date-input {
+  border: 2px solid var(--color-darkslategray);
+  outline: 0;
+  background-color: var(--color-white);
+  align-self: stretch;
+  height: 79px;
+  min-width: 250px;
+  z-index: 5;
+}
+.name-rectangle,
+.rectangle-container2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangle-container2 {
+  align-self: stretch;
+}
+.name-rectangle {
+  flex: 1;
+  gap: var(--gap-mini);
+  min-width: 519px;
+  max-width: 100%;
+}
+.frame-child26,
+.last-name1 {
+  position: relative;
+  box-sizing: border-box;
+}
+.last-name1 {
+  width: 190px;
+  display: inline-block;
+  padding-right: var(--padding-xl);
+  z-index: 4;
+}
+.frame-child26 {
+  border: 2px solid var(--color-darkslategray);
+  outline: 0;
+  background-color: var(--color-white);
+  align-self: stretch;
+  height: 79px;
+  min-width: 250px;
+  z-index: 5;
+}
+.last-name-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.email1,
+.frame-child27 {
+  position: relative;
+  box-sizing: border-box;
+}
+.email1 {
+  width: 107px;
+  display: inline-block;
+  padding-right: var(--padding-xl);
+  z-index: 4;
+}
+.frame-child27 {
+  border: 2px solid var(--color-darkslategray);
+  outline: 0;
+  background-color: var(--color-white);
+  align-self: stretch;
+  height: 79px;
+  min-width: 250px;
+  z-index: 5;
+}
+.email-parent,
+.name-rectangle1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.email-parent {
+  align-self: stretch;
+}
+.name-rectangle1 {
+  flex: 1;
+  gap: var(--gap-mini);
+  min-width: 519px;
+  max-width: 100%;
+}
+.phone-number-input1 {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: var(--gap-4xl);
+  color: var(--color-darkslateblue-200);
+}
+.frame-container3,
+.group,
+.phone-number-input1,
+.waiting-message {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.waiting-message {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-13xl);
+}
+.frame-container3,
+.group {
+  box-sizing: border-box;
+}
+.frame-container3 {
+  width: 1624px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-8xs) 0 0;
+  text-align: left;
+  color: var(--color-darkslategray);
+}
+.group {
+  align-self: stretch;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue-100);
+  box-shadow: 0 4px 40px rgba(0, 0, 0, 0.25);
+  border: 3px solid var(--color-darkslateblue-200);
+  flex-direction: column;
+  align-items: center;
+  padding: var(--padding-10xs) 0 var(--padding-7xs);
+  gap: 2px;
+  z-index: 1;
+}
+.current-patient1,
+.service-one-or1 {
+  height: 48px;
+  position: relative;
+  display: inline-block;
+  z-index: 4;
+}
+.service-one-or1 {
+  width: 349px;
+  max-width: 100%;
+}
+.current-patient1 {
+  width: 258px;
+}
+.service-selection {
+  width: 1079px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0;
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.preferred-date-picker-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  border: 2px solid var(--color-darkslategray);
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+.teenyiconsdown-solid10 {
+  position: absolute;
+  top: 25px;
+  left: 740px;
+  width: 35px;
+  height: 35px;
+  overflow: hidden;
+  display: none;
+}
+.preferred-date-picker {
+  align-self: stretch;
+  height: 79px;
+  position: relative;
+  background-color: var(--color-white);
+  border: 2px solid var(--color-darkslategray);
+  box-sizing: border-box;
+  z-index: 5;
+}
+.if-yes-upload1 {
+  width: 371px;
+  height: 48px;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 4;
+}
+.yes-no-toggle {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+  gap: var(--gap-mini);
+  min-width: 519px;
+  max-width: 100%;
+}
+.current-patient-service,
+.yes1 {
+  flex: 1;
+  position: relative;
+  z-index: 4;
+}
+.current-patient-service {
+  align-self: stretch;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  border: 0 solid var(--color-black);
+}
+.yes1 {
+  height: 48px;
+  display: inline-block;
+}
+.yeas-or-nots {
+  width: 114px;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+  gap: var(--gap-3xs);
+}
+.preferred-date1 {
+  align-self: stretch;
+  height: 48px;
+  position: relative;
+  display: inline-block;
+  z-index: 4;
+}
+.if-upload-receipt1,
+.service-form-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.if-upload-receipt1 {
+  width: 231px;
+  flex: 1;
+  padding: 0;
+  gap: var(--gap-6xl);
+}
+.service-form-frame {
+  height: 150px;
+  width: 454px;
+  padding: var(--padding-6xl) 0 0;
+  max-width: 100%;
+}
+.calendar-icon1,
+.no1 {
+  flex: 1;
+  position: relative;
+  z-index: 4;
+}
+.calendar-icon1 {
+  align-self: stretch;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  border: 0 solid var(--color-black);
+}
+.no1 {
+  height: 48px;
+  display: inline-block;
+}
+.banner-slider-frame3 {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0;
+  gap: var(--gap-3xs);
+}
+.if-upload-receipt,
+.service-or-patient,
+.services-frame3 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.services-frame3 {
+  height: 77px;
+  width: 108px;
+  flex-direction: column;
+  padding: var(--padding-6xl) 0 0;
+}
+.if-upload-receipt,
+.service-or-patient {
+  align-self: stretch;
+  padding: 0;
+  max-width: 100%;
+}
+.if-upload-receipt {
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: var(--gap-4xl);
+}
+.service-or-patient {
+  flex-direction: column;
+}
+.bxscalendar4 {
+  width: 50px;
+  height: 58px;
+  position: absolute;
+  margin: 0 !important;
+  right: 496px;
+  bottom: -190.6px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.calendar-icon,
+.confirmation-frame {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.calendar-icon {
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  padding: 0;
+  position: relative;
+}
+.confirmation-frame {
+  width: 1516px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-36xl);
+  min-height: 388px;
+  text-align: left;
+}
+.banner-slider-ellipse {
+  width: 50px;
+  height: 52px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: 197px;
+  left: 529px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  border: 0 solid var(--color-black);
+  box-sizing: border-box;
+  z-index: 4;
+}
+.frame-parent7,
+.phone-number-rectangle {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent7 {
+  width: 1754px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-xl);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-4xs);
+  min-height: 1320px;
+}
+.phone-number-rectangle {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-end;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-darkslateblue-200);
+}
+.appointment-request-form-frame1,
+.group-frame {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.group-frame {
+  flex: 1;
+  flex-direction: column;
+  padding: 0;
+  gap: var(--gap-24xl);
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-cornflowerblue);
+  font-family: var(--font-poppins);
+}
+.appointment-request-form-frame1 {
+  width: 1849px;
+  flex-direction: row;
+  padding: 0 var(--padding-5xs);
+  flex-shrink: 0;
+}
+.preferred-time1 {
+  width: 233px;
+  position: relative;
+  display: none;
+  z-index: 4;
+}
+.preferred-branch1,
+.way-of-payment1 {
+  width: 269px;
+  position: relative;
+  display: none;
+  z-index: 5;
+}
+.way-of-payment1 {
+  width: 263px;
+  z-index: 6;
+}
+.appointment-child2 {
+  bottom: -293px;
+  left: 162px;
+}
+.appointment-child2,
+.appointment-child3,
+.appointment-child4,
+.appointment-child5 {
+  width: 798px;
+  height: 79px;
+  position: absolute;
+  margin: 0 !important;
+  background-color: var(--color-white);
+  border: 2px solid var(--color-darkslategray);
+  box-sizing: border-box;
+  z-index: 4;
+}
+.appointment-child3 {
+  right: 139px;
+  bottom: -301px;
+}
+.appointment-child4,
+.appointment-child5 {
+  bottom: -450px;
+}
+.appointment-child4 {
+  left: 162px;
+}
+.appointment-child5 {
+  right: 139px;
+}
+.full-payment1 {
+  width: 204px;
+  position: relative;
+  display: none;
+  z-index: 11;
+}
+.dental-logo {
+  width: 50px;
+  height: 52px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -607px;
+  left: 162px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  border: 0 solid var(--color-black);
+  box-sizing: border-box;
+  z-index: 4;
+}
+.down-payment1 {
+  width: 242px;
+  position: relative;
+  display: none;
+  z-index: 13;
+}
+.appointment11 {
+  width: 100%;
+  height: 1080px;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-darkslateblue-200);
+  font-family: var(--font-poppins);
+}
+@media screen and (max-width: 1425px) {
+  .contact-us-frame8,
+  .your-smile-is11 {
+    display: none;
+  }
+  .appointment11 {
+    height: auto;
+  }
+}
+@media screen and (max-width: 1275px) {
+  .confirmation-frame,
+  .rectangle-parent15 {
+    padding-right: var(--padding-2xl);
+    box-sizing: border-box;
+  }
+  .confirmation-frame {
+    padding-left: var(--padding-8xl);
+    padding-right: var(--padding-8xl);
+  }
+}
+@media screen and (max-width: 900px) {
+  .appointment-request-form-frame {
+    gap: var(--gap-24xl);
+  }
+  .appointment-request-form3 {
+    font-size: var(--font-size-32xl);
+  }
+  .appointment-request-form4,
+  .first-name1,
+  .note-please-wait-container1,
+  .phone-number1,
+  .submit1 {
+    font-size: var(--font-size-7xl);
+  }
+  .name-rectangle {
+    min-width: 100%;
+  }
+  .email1,
+  .last-name1 {
+    font-size: var(--font-size-7xl);
+  }
+  .name-rectangle1 {
+    min-width: 100%;
+  }
+  .waiting-message {
+    gap: var(--gap-13xl);
+  }
+  .current-patient1,
+  .service-one-or1 {
+    font-size: var(--font-size-7xl);
+  }
+  .service-selection {
+    flex-wrap: wrap;
+  }
+  .if-yes-upload1 {
+    font-size: var(--font-size-7xl);
+  }
+  .yes-no-toggle {
+    min-width: 100%;
+  }
+  .no1,
+  .preferred-date1,
+  .yes1 {
+    font-size: var(--font-size-7xl);
+  }
+  .group-frame {
+    gap: var(--gap-24xl);
+  }
+  .down-payment1,
+  .full-payment1,
+  .preferred-branch1,
+  .preferred-time1,
+  .way-of-payment1 {
+    font-size: var(--font-size-7xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .first-name-label {
+    gap: var(--gap-29xl);
+  }
+  .appointment-request-form-frame {
+    display: none;
+  }
+  .appointment-request-form3 {
+    font-size: var(--font-size-19xl);
+  }
+  .appointment-request-form4,
+  .current-patient1,
+  .down-payment1,
+  .email1,
+  .first-name1,
+  .full-payment1,
+  .if-yes-upload1,
+  .last-name1,
+  .no1,
+  .note-please-wait-container1,
+  .phone-number1,
+  .preferred-branch1,
+  .preferred-date1,
+  .preferred-time1,
+  .service-one-or1,
+  .submit1,
+  .way-of-payment1,
+  .yes1 {
+    font-size: var(--font-size-lgi);
+  }
+}

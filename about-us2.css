@@ -1,0 +1,403 @@
+.main-frame-inner {
+  height: 145px;
+  width: 1947px;
+  position: relative;
+  background-color: var(--color-white);
+  box-shadow: 0 1px 10px 2px #000;
+  display: none;
+  max-width: 100%;
+}
+.image-3-icon30 {
+  height: 122.6px;
+  width: 119px;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.dental-clinic24,
+.sweet-tooth25 {
+  position: relative;
+  white-space: nowrap;
+  z-index: 1;
+}
+.dental-clinic24 {
+  font-size: var(--font-size-base-4);
+  display: inline-block;
+  font-family: var(--font-poppins);
+  margin-top: -11px;
+}
+.frame-appointment,
+.frame-contact-us {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-contact-us {
+  flex-direction: row;
+  padding: 0 var(--padding-9xs) 0 var(--padding-10xs);
+}
+.your-smile-is25 {
+  position: relative;
+  font-weight: 300;
+  white-space: nowrap;
+  z-index: 1;
+}
+.home-contact-us-appointment-fe1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-12xs);
+}
+.line-separator11 {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 0.5px solid var(--color-darkgray);
+  box-sizing: border-box;
+  z-index: 1;
+  margin-top: -1px;
+}
+.subheader-frame2 {
+  align-self: stretch;
+  height: 15px;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-top: -4px;
+  font-size: var(--font-size-3xs);
+  font-family: var(--font-poppins);
+}
+.frame-dental-clinic,
+.image-3-parent6,
+.subheader-frame2 {
+  display: flex;
+  justify-content: flex-start;
+}
+.frame-dental-clinic {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: var(--padding-xl) 0;
+}
+.image-3-parent6 {
+  width: 260px;
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-5xs);
+}
+.about-us28,
+.home24 {
+  position: relative;
+  z-index: 1;
+}
+.about-us28 {
+  white-space: nowrap;
+}
+.frame-teenyiconsdownsolid {
+  width: 150px;
+  height: 3px;
+  position: relative;
+  border-top: 3px solid var(--color-darkslateblue-200);
+  box-sizing: border-box;
+  z-index: 1;
+}
+.text-lorem-ipsum-dolor-sit-ame {
+  height: 53px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+  color: var(--color-darkslateblue-200);
+}
+.services34,
+.teenyiconsdown-solid23 {
+  position: relative;
+  z-index: 1;
+}
+.teenyiconsdown-solid23 {
+  height: 25.8px;
+  width: 25.8px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.rectangle-background1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-12xs);
+}
+.contact-us32 {
+  white-space: nowrap;
+}
+.appointment28,
+.contact-us32,
+.feedback23 {
+  position: relative;
+  z-index: 1;
+}
+.rectangle-our-clinic,
+.services-frame8 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangle-our-clinic {
+  flex-direction: row;
+  padding: 0 var(--padding-10xs) 0 0;
+  gap: var(--gap-24xl);
+}
+.services-frame8 {
+  flex-direction: column;
+  padding: var(--padding-smi) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-poppins);
+}
+.frame-about-us1,
+.main-frame7 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.main-frame7 {
+  width: 1947px;
+  background-color: var(--color-white);
+  box-shadow: 0 1px 10px 2px #000;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--padding-smi) var(--padding-27xl) var(--padding-3xs)
+    var(--padding-base);
+  gap: var(--gap-xl);
+  max-width: 101%;
+  flex-shrink: 0;
+}
+.frame-about-us1 {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-6xl-1);
+  color: var(--color-steelblue-300);
+  font-family: var(--font-vujahday-script);
+}
+.first-frame-child {
+  height: 829px;
+  width: 1920px;
+  position: relative;
+  background-color: var(--color-lavender);
+  display: none;
+  max-width: 100%;
+}
+.fourth-rectangle {
+  position: absolute;
+  top: 35px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 913px;
+  height: 615px;
+  z-index: 1;
+}
+.image-5-12 {
+  position: absolute;
+  top: 0;
+  left: 23px;
+  width: 913px;
+  height: 624px;
+  object-fit: cover;
+  z-index: 2;
+}
+.third-frame1 {
+  height: 650px;
+  flex: 1;
+  position: relative;
+  min-width: 608px;
+  max-width: 100%;
+}
+.frame-child72,
+.our-clinic {
+  align-self: stretch;
+  position: relative;
+}
+.frame-child72 {
+  height: 558px;
+  border-radius: var(--br-61xl);
+  background-color: var(--color-darkslateblue-200);
+  display: none;
+}
+.our-clinic {
+  margin: 0;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  z-index: 1;
+}
+.lorem-ipsum-dolor11 {
+  height: 324px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.lorem-p-frame {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-60xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+}
+.lorem-p-frame,
+.rectangle-parent41,
+.second-rectangle8 {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.rectangle-parent41 {
+  width: 836px;
+  border-radius: var(--br-61xl);
+  background-color: var(--color-darkslateblue-200);
+  flex-direction: column;
+  align-items: flex-end;
+  padding: var(--padding-29xl) 0 var(--padding-37xl) var(--padding-5xs);
+  box-sizing: border-box;
+  gap: var(--gap-18xl);
+  min-width: 836px;
+  z-index: 3;
+  margin-left: -131px;
+}
+.second-rectangle8 {
+  flex: 1;
+  flex-direction: row;
+  align-items: center;
+  row-gap: 20px;
+  text-align: center;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
+.third-frame-transparent {
+  width: 19px;
+  flex: 1;
+  position: relative;
+  background-color: var(--color-lightgray);
+  z-index: 1;
+}
+.second-rectangle-empty {
+  height: 310px;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0 0 var(--padding-10xl);
+}
+.about-us27,
+.first-frame1,
+.second-rectangle-empty {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.first-frame1 {
+  align-self: stretch;
+  background-color: var(--color-lavender);
+  flex-direction: row;
+  align-items: flex-end;
+  padding: 82px 0 var(--padding-78xl) 151px;
+  gap: var(--gap-90xl);
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.about-us27 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0 0 106px;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1425px) {
+  .home-contact-us-appointment-fe1,
+  .your-smile-is25 {
+    display: none;
+  }
+  .rectangle-parent41 {
+    flex: 1;
+    margin-left: 0;
+  }
+  .first-frame1,
+  .second-rectangle8 {
+    flex-wrap: wrap;
+  }
+  .first-frame1 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1275px) {
+  .main-frame7 {
+    padding-right: var(--padding-4xl);
+    box-sizing: border-box;
+  }
+  .rectangle-parent41,
+  .second-rectangle8 {
+    min-width: 100%;
+  }
+  .first-frame1 {
+    gap: var(--gap-90xl);
+  }
+}
+@media screen and (max-width: 900px) {
+  .rectangle-our-clinic {
+    gap: var(--gap-24xl);
+  }
+  .third-frame1 {
+    min-width: 100%;
+  }
+  .our-clinic {
+    font-size: var(--font-size-32xl);
+  }
+  .lorem-p-frame {
+    padding-left: var(--padding-20xl);
+    padding-right: var(--padding-20xl);
+    box-sizing: border-box;
+  }
+  .rectangle-parent41 {
+    padding-bottom: var(--padding-17xl);
+    box-sizing: border-box;
+  }
+  .first-frame1 {
+    gap: var(--gap-90xl);
+    padding-top: 53px;
+    padding-bottom: 63px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .rectangle-our-clinic {
+    display: none;
+  }
+  .our-clinic {
+    font-size: var(--font-size-19xl);
+  }
+  .lorem-ipsum-dolor11 {
+    font-size: var(--font-size-lgi);
+  }
+  .rectangle-parent41 {
+    gap: var(--gap-18xl);
+  }
+  .first-frame1 {
+    padding-top: var(--padding-15xl);
+    padding-bottom: 41px;
+    box-sizing: border-box;
+  }
+}
